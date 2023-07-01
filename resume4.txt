@@ -1,0 +1,11 @@
+Name4
+7.89
+Male
+
+Skills:
+Python: 1
+C++: 3
+
+Projects:
+Booking system: C++, SQL
+Chomu like: Java, C#, C

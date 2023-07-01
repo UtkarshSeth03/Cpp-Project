@@ -1,0 +1,14 @@
+Name2
+7.43
+Male
+
+Skills:
+MATLAB: 1
+C: 1
+Python: 3
+C++: 3
+Java: 2
+
+Projects:
+Booking system: C++, SQL
+Chomu like: Java, C#, C

@@ -1,0 +1,12 @@
+Name3
+9.91
+Female
+
+Skills:
+MATLAB: 1
+Python: 2
+C++: 7
+
+Projects:
+Booking system: C++, SQL
+Chomu like: Java, C#, C
